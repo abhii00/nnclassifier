@@ -7,6 +7,8 @@ import torch.nn as nn
 import torch.nn.functional as F
 import torch.optim as optim
 
+#TODO understand this
+
 if __name__ == '__main__':
     ##LOAD CIFAR10
     transform = transforms.Compose(
