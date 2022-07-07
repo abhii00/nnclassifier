@@ -2,7 +2,7 @@
 
 :heavy_check_mark: WIP :heavy_check_mark:
 
-A classifier built on PyTorch.
+An investigation of neural networks for classification.
 
 _November 2021 - Present_
 
@@ -12,9 +12,14 @@ _November 2021 - Present_
 
 ### **Implemented Features**
 
-Initial Testing Phase
+Simple Single Neuron
+Initial Test of PyTorch
 
 ### **Planned Features**
+
+Simple ANN
+CNN
+PyTorch NN
 
 ## **Skills**
 
