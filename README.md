@@ -1,5 +1,7 @@
 # **NN Classifier**
 
+:heavy_check_mark: WIP :heavy_check_mark:
+
 A classifier built on PyTorch.
 
 _November 2021 - Present_
